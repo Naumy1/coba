@@ -2,7 +2,7 @@
 # dаͪηͣdꙷɥͣ  ͭ₃ͤ₃ rework
 # Thanks to Khie
 #=====================================================================
-from dandy import *
+from linepy import *
 from liff.ttypes import LiffChatContext, LiffContext, LiffSquareChatContext, LiffNoneContext, LiffViewRequest
 from akad.ttypes import Message
 from akad.ttypes import ContentType as Type
